@@ -9,7 +9,7 @@ import static org.hamcrest.Matchers.*;
 
 class PostmanEchoTest {
     @Test
-    void ShouldGiveCorrectResponse() {
+    void shouldGiveCorrectResponse() {
         // Given - When - Then
         // Предусловия
         given()
